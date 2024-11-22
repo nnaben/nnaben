@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ben! <br/><a href="https://github.com/joshmadakor1">Passionate Cyber Analyst</a>, <a href="https://www.linkedin.com/in/nnaben/">DeskTop Support Pro</a>, <a href="https://www.youtube.com/c/joshmadakor">Free Lancer</a></h1>
+<h1>Hi, I'm Ben! <br/><a href="https://github.com/nnaben">Passionate Cyber Analyst</a>, <a href="https://www.linkedin.com/in/nnaben/">DeskTop Support Pro</a></h1>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
