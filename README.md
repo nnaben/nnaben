@@ -1,6 +1,6 @@
 <h1>Hi, I'm Ben! <br/><a href="https://github.com/nnaben">Passionate Cyber Analyst</a>, <a href="https://www.linkedin.com/in/nnaben/">DeskTop Support Pro</a></h1>
 
-<h2>👨‍💻 CyberSecurity Projects:</h2>
+<h2>👨‍💻 My Cybersecurity Projects:</h2>
 
 - <b> Cloud Projects in Azure </b>
   - [SOC/Honeynet Creation in Azure --- LIVE!](https://github.com/nnaben/SOC-AzureProject)
