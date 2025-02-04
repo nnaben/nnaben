@@ -5,7 +5,7 @@
 - <b> Cloud Projects in Azure </b>
   - [SOC/Honeynet Creation in Azure --- LIVE!](https://github.com/nnaben/SOC-AzureProject)
 - <b>Vulnerability Management using OpenVas Server</b>
-  - [Vulnerability Management with OpenVas](https://github.com/nnaben/Vulnerability-Management with-OpenVas) <b>
+  - [Vulnerability Management with OpenVas](https://github.com/nnaben/Vulnerability-Management-with-OpenVas) <b>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
