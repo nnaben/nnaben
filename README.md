@@ -6,8 +6,8 @@
   - [SOC/Honeynet Creation in Azure --- LIVE!](https://github.com/nnaben/SOC-AzureProject)
 - <b>Vulnerability Management using OpenVas Server</b>
   - [Vulnerability Management with OpenVas](https://github.com/nnaben/Vulnerability-Management-with-OpenVas) <b>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>GRC- Capstone Project on Oscorp Company</b>
+  - [GRC - Capstone Project on Oscorp Company](https://github.com/nnaben/GRC--Capstone-project-on-Oscorp-CompanyMastery/tree/main))
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
